@@ -1,3 +1,9 @@
+- JWT BASED LOGIN SYSTEM
+- LAYERED ARCHITECTURE APPLIED
+- LINQ LOGIC CREATED
+
+
+
 Installed NUGGET's
 
 1. Microsoft.AspNetCore.Authentication.JwtBearer
